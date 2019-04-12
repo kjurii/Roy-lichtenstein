@@ -1,0 +1,1690 @@
+
+div.rectangle{
+  position: center;
+   width: 1645px;
+  height: 600px;
+  background-color: #BC1A16;
+  border: 10px solid black;
+}
+
+h1 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: #F4D73B;
+  font-size: 200px;
+  left:300px;
+  top: 25px;
+}
+
+h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 200px;
+  left:310px;
+  top: 0px;
+}
+
+p{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 50px;
+  left:300px;
+  top: 500px;
+}
+
+p1{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 50px;
+  left:822.5px;
+  top: 550px;
+}
+
+p2{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 50px;
+  left:1250.5px;
+  top: 550px; 
+}
+
+div.rectangleP{
+  position: absolute;
+  width: 1645px;
+  height: 100px;
+  background-color: #FED00E;
+  border: 10px solid black;
+  left:9px;
+  top: 650px;
+}
+h3 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: #134FA8;
+  font-size: 80px;
+  left:770px;
+  top: 575px;
+}
+h4{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  left:775px;
+  top: 555px;
+   text-align: center;
+  
+}div.rectanglePP{
+   position: absolute;
+   width: 822.5px;
+  height: 900px;
+  border: 10px solid black;
+  left:9px;
+  top: 800px;
+}
+
+	.profileP {
+		position: absolute;
+		overflow: visible;
+		left: 19px;
+		top: 810px;
+	}
+
+div.profileText{
+  position: absolute;
+   width: 780px;
+  height: 900px;
+  background-color: #FED00E;
+  border: 10px solid black;
+  left: 855px;
+  top: -10px;
+}
+	#Born__October_27__1923_Manhatt {
+		opacity: 1;
+		position: absolute;
+		left: 900px;
+		top: 90px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 700px;
+		height: 1000px;
+		line-height: 60px;
+		margin-top: -15px;
+		font-family: 'Yanone Kaffeesatz', sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+
+div.rectanglework{
+  position: absolute;
+  width: 1645px;
+  height: 100px;
+  background-color: #C0BFC6;
+  border: 10px solid black;
+  left:-10px;
+  top: 935px;
+}
+
+h5{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: #1DB001;
+  font-size: 80px;
+  left:770px;
+  top: 810px; 
+}
+
+h6{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  left:775px;
+  top: 762px;  
+}
+
+figure.work1 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: 165px;
+  left:-20px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work1 img {
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work1:after,
+figure.work1 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work1:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work1 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work1 h7,
+figure.work1 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 50px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work1 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work1 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work1 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work1:hover img,
+figure.work1.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work1:hover:after,
+figure.work1.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work1:hover h7,
+figure.work1.hover h7,
+figure.work1:hover p,
+figure.work1.hover p,
+figure.work1:hover i,
+figure.work1.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work2 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -363px;
+  left:555px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work2 img {
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work2:after,
+figure.work2 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work2:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work2 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work2 h7,
+figure.work2 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work2 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work2 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work2 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work2:hover img,
+figure.work2.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work2:hover:after,
+figure.work2.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work2:hover h7,
+figure.work2.hover h7,
+figure.work2:hover p,
+figure.work2.hover p,
+figure.work2:hover i,
+figure.work2.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work3 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -893px;
+  left:1125px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work3 img {
+  max-width: 100%;
+  height:495px;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work3:after,
+figure.work3 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work3:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work3 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work3 h7,
+figure.work3 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work3 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work3 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work3 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work3:hover img,
+figure.work3.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work3:hover:after,
+figure.work3.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work3:hover h7,
+figure.work3.hover h7,
+figure.work3:hover p,
+figure.work3.hover p,
+figure.work3:hover i,
+figure.work3.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work4 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -850px;
+  left:-20px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work4 img {
+  height: 500px;
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work4:after,
+figure.work4 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work4:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work4 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work4 h7,
+figure.work4 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work4 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work4 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work4 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work4:hover img,
+figure.work4.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work4:hover:after,
+figure.work4.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work4:hover h7,
+figure.work4.hover h7,
+figure.work4:hover p,
+figure.work4.hover p,
+figure.work4:hover i,
+figure.work4.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work5 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -1380px;
+  left:555px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work5 img {
+  height: 500px;
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work5:after,
+figure.work5 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work5:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work5 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work5 h7,
+figure.work5 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work5 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work5 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work5 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work5:hover img,
+figure.work5.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work5:hover:after,
+figure.work5.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work5:hover h7,
+figure.work5.hover h7,
+figure.work5:hover p,
+figure.work5.hover p,
+figure.work5:hover i,
+figure.work5.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work6 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -1910px;
+  left:1125px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work6 img {
+  max-width: 100%;
+  height:495px;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work6:after,
+figure.work6 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work6:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work6 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work6 h7,
+figure.work6 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work6 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work6 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work6 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work6:hover img,
+figure.work6.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work6:hover:after,
+figure.work6.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work6:hover h7,
+figure.work6.hover h7,
+figure.work6:hover p,
+figure.work6.hover p,
+figure.work6:hover i,
+figure.work6.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work7 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -1860px;
+  left:-20px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work7 img {
+  height: 500px;
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work7:after,
+figure.work7 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work7:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work7 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work7 h7,
+figure.work7 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work7 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work7 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work7 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work7:hover img,
+figure.work7.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work7:hover:after,
+figure.work7.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work7:hover h7,
+figure.work7.hover h7,
+figure.work7:hover p,
+figure.work7.hover p,
+figure.work7:hover i,
+figure.work7.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work8 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -2390px;
+  left:555px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work8 img {
+  height: 500px;
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work8:after,
+figure.work8 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work8:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work8 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work8 h7,
+figure.work8 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work8 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work8 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work8 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work8:hover img,
+figure.work8.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work8:hover:after,
+figure.work8.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work8:hover h7,
+figure.work8.hover h7,
+figure.work8:hover p,
+figure.work8.hover p,
+figure.work8:hover i,
+figure.work8.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work9 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -2920px;
+  left:1125px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work9 img {
+  max-width: 100%;
+  height:495px;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work9:after,
+figure.work9 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work9:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work9 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work9 h7,
+figure.work9 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work9 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work9 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work9 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work9:hover img,
+figure.work9.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work9:hover:after,
+figure.work9.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work9:hover h7,
+figure.work9.hover h7,
+figure.work9:hover p,
+figure.work9.hover p,
+figure.work9:hover i,
+figure.work9.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work10 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -2870px;
+  left:-20px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work10 img {
+  height: 500px;
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work10:after,
+figure.work10 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work10:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work10 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work10 h7,
+figure.work10 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work10 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work10 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work10 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work10:hover img,
+figure.work10.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work10:hover:after,
+figure.work10.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work10:hover h7,
+figure.work10.hover h7,
+figure.work10:hover p,
+figure.work10.hover p,
+figure.work10:hover i,
+figure.work10.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work11 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -3400px;
+  left:555px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work11 img {
+  height: 500px;
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work11:after,
+figure.work11 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work11:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work11 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work11 h7,
+figure.work11 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work11 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work11 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work11 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work11:hover img,
+figure.work11.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work11:hover:after,
+figure.work11.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work11:hover h7,
+figure.work11.hover h7,
+figure.work11:hover p,
+figure.work11.hover p,
+figure.work11:hover i,
+figure.work11.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+figure.work12 {
+  font-family:'Yanone Kaffeesatz', sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+   width: 500px;
+  height: 500px;
+  top: -3930px;
+  left:1125px;  
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  background-color: #000000;
+   border: 10px solid black;
+}
+figure.work12 img {
+  max-width: 100%;
+  height:495px;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.work12:after,
+figure.work12 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+figure.work12:after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  opacity: 0;
+}
+figure.work12 figcaption {
+  z-index: 1;
+  padding: 40px;
+}
+figure.work12 h7,
+figure.work12 h7 {
+  line-height: 50px;
+  font-weight: 700;
+  font-size: 60px;
+  text-transform: uppercase;
+  opacity: 0;
+}
+figure.work12 p {
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0;
+  top: 220px;
+  left:40px;
+  -webkit-transform: translateY(40px);
+  transform: translateY(40px);
+}
+figure.work12 i {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px 25px;
+  font-size: 34px;
+  opacity: 0;
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
+}
+figure.work12 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+figure.work12:hover img,
+figure.work12.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.work12:hover:after,
+figure.work12.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.work12:hover h7,
+figure.work12.hover h7,
+figure.work12:hover p,
+figure.work12.hover p,
+figure.work12:hover i,
+figure.work12.hover i {
+  -webkit-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+div.rectangleawards{
+  position: absolute;
+  width: 1645px;
+  height: 100px;
+  background-color: #004EAE;
+  border: 10px solid black;
+  left:-10px;
+  top: 3365px; 
+}
+
+h8{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: #BC1A16;
+  font-size: 80px;
+  left:740px;
+  top: 3372px;  
+}
+h9{
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  left:745px;
+  top: 3375px;  
+}
+
+div.rectangleawards_text{
+  position: absolute;
+  width: 1645px;
+  height: 700px;
+  background-color: #004EAE;
+  border: 10px solid black;
+  left:-10px;
+  top: 3520px; 
+}
+
+div.timelinebar{
+ position: relative;
+ width: 1634px;
+ height: 0px;
+ background-color: white;
+ border: 6px solid white;
+ top:-3400px;
+}
+
+div.timelinebar1{
+ position: relative;
+ width: 0px;
+ height: 30px;
+ background-color: white;
+ border: 6px solid white;
+ top:-3450px;
+ left:100px;
+}
+
+h10{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:-33px;
+  top: -60px; 
+}
+
+p3{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:-85px;
+top: -90px;  
+}
+
+div.timelinebar2{
+ position: relative;
+ width: 0px;
+ height: 30px;
+ background-color: white;
+ border: 6px solid white;
+ top:40px;
+ left:230px;
+}
+
+h11{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:200px;
+  top: 83px; 
+}
+
+p4{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:100px;
+top: 135px;  
+}
+
+div.timelinebar3{
+ position: relative;
+ width: 0px;
+ height: 30px;
+ background-color: white;
+ border: 6px solid white;
+ top:-50px;
+ left:690px;
+}
+
+h12{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:660px;
+  top: -60px; 
+}
+
+p5{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:609px;
+top: -90px;  
+}
+
+div.timelinebar4{
+ position: relative;
+ width: 0px;
+ height: 30px;
+ background-color: white;
+ border: 6px solid white;
+ top:-50px;
+ left:950px;
+}
+
+h13{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:925px;
+  top: 80px; 
+}
+
+p6{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:760px;
+top: 130px;  
+}
+
+div.timelinebar5{
+ position: relative;
+ width: 0px;
+ height: 90px;
+ background-color: white;
+ border: 6px solid white;
+ top:-190px;
+ left:1000px;
+}
+
+h14{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:970px;
+  top: -120px; 
+}
+
+p7{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:840px;
+top: -145px;  
+}
+
+div.timelinebar6{
+ position: relative;
+ width: 0px;
+ height: 130px;
+ background-color: white;
+ border: 6px solid white;
+ top:-195px;
+ left:1050px;
+}
+
+h15{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:1025px;
+  top: 180px; 
+}
+
+p8{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:990px;
+top: 230px;  
+}
+
+div.timelinebar7{
+ position: relative;
+ width: 0px;
+ height: 30px;
+ background-color: white;
+ border: 6px solid white;
+ top:-330px;
+ left:1260px;
+}
+
+h16{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  left:1235px;
+  top: 85px; 
+}
+
+p9{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:1230px;
+top: 140px;  
+}
+
+p10{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+position: absolute;
+color: white;
+font-size: 25px;
+width: 700px;
+height: 1000px;
+left:1190px;
+top: 175px;  
+}
+
+div.contacts{
+  position: absolute;
+  width: 1645px;
+  height: 500px;
+  background-color: #C0BFC6;
+  border: 10px solid black;
+  left:-115px;
+  top: 430px; 
+}
+
+h17{
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: #1DB001;
+  font-size: 80px;
+  left:-50px;
+  top: 500px; 
+}
+
+h18{
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  left:-45px;
+  top: 503px; 
+}
+
+p11{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  left:-50px;
+  top: 625px;  
+}
